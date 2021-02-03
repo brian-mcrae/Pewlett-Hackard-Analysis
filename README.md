@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 Data Analytics and Visualization Bootcamp Module 7
 
-# Overview
+## Overview
 The purpose of this analysis is to understand how Pewlett-Hackard's
 workforce will be affected as our employees transition into retirement.  
 
